@@ -55,8 +55,8 @@ multi_model_sales_forecasting/
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/amitkharche/regression_projects.git
-cd regression_projects/regression_sales_forecasting_multi_model_RandomForest_XGBoost_CatBoost
+git clone https://github.com/amitkharche/Regression_sales_forecasting_multi_model_RandomForest_XGBoost_CatBoost_Streamlit.git
+cd Regression_sales_forecasting_multi_model_RandomForest_XGBoost_CatBoost_Streamlit
 ```
 
 ### 2️⃣ Install Dependencies
@@ -151,7 +151,12 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Amit Kharche**  
-📬 Connect on [LinkedIn](http://www.linkedin.com/in/amit-kharche)]  
+## 🔗 Connect with Me
+
+* [🔗 LinkedIn](https://www.linkedin.com/in/amitkharche)
+* [📰 Newsletter – From Data to Decisions](https://www.linkedin.com/newsletters/from-data-to-decisions-7309470147277168640/)
+* [💻 GitHub](https://github.com/amitkharche)
+* [✍️ Medium](https://medium.com/@amitkharche14)
 
 ---
 
